@@ -1,13 +1,13 @@
 # links-dev
-Lista com links úteis para o desenvolvimento web.
+Lista com links úteis para o desenvolvimento web com JavaScript.
 
 ## Categorias
 
-### Bibliotecas JS
-- __[UmbrellaJS](http://umbrellajs.com/)__
-
-### Ferramentas úteis para dev
-
-### Design
-
-### Úteis
+- __[Bibliotecas](links/bibliotecas.md)__
+- __[Codificacao](links/codificacao.md)__
+- __[Componentes](links/componentes.md)__
+- __[Cursos](links/cursos.md)__
+- __[Design](links/design.md)__
+- __[Frameworks](links/frameworks.md)__
+- __[Hospedagem](links/hospedagem.md)__
+- __[Uteis](links/uteis.md)__
