@@ -12,7 +12,7 @@ Lista com links úteis para o desenvolvimento web com JavaScript.
 
 ---
 
-### Componentes JavaScript
+### Componentes
 Componentes úteis para se utilizar em aplicações.
 
 #### Calendário
@@ -43,6 +43,7 @@ Componentes úteis para se utilizar em aplicações.
 - __[draw2d](http://www.draw2d.org/draw2d/)__
 
 #### Cropper
+- __[DarkroomJS](https://mattketmo.github.io/darkroomjs/)__
 - __[Cropper](https://github.com/fengyuanchen/cropper)__
 - __[Cropperjs](https://github.com/fengyuanchen/cropperjs)__
 
@@ -67,6 +68,64 @@ Componentes úteis para se utilizar em aplicações.
 
 #### Biblioteca para disparar comandos com o teclado
 - __[keymaster](https://github.com/madrobby/keymaster)__
+
+#### Transformar texto em link
+- __[soapbox](http://soapbox.github.io/linkifyjs/)__
+
+#### Desenvolvimento com realidade aumentada
+- __[awe.js](https://github.com/buildar/awe.js)__
+
+#### Slider JS
+- __[noUISlider](http://refreshless.com/nouislider/)__
+
+#### ColorPicker inserido em sites
+- __[Color Picker jQuery](http://www.eyecon.ro/colorpicker/)__
+- __[Bootstrap Colorpicker](https://mjolnic.com/bootstrap-colorpicker/)__
+
+#### File upload para arquivos em HTML5
+- __[Pure HTML5 file upload](https://www.script-tutorials.com/pure-html5-file-upload/)__
+
+### Drag'n'drop arquivos
+- __[dropzonejs](http://www.dropzonejs.com/)__
+- __[ngDraggable](https://github.com/fatlinesofcode/ngDraggable)__
+
+#### Mapas em JS
+- __[jVectorMap](http://jvectormap.com/)__
+- __[amCharts](https://www.amcharts.com/javascript-maps/)__
+- __[Google Maps api V3](https://developers.google.com/maps/documentation/javascript/?hl=pt-br)__
+    - __[Criando um mapa personalizado](http://www.princiweb.com.br/blog/programacao/google-apis/google-maps-api-v3-criando-um-mapa-personalizado.html)__
+
+#### Animação de componentes
+- __[Animate.css](https://daneden.github.io/animate.css/)__
+
+#### Animação de Header 
+- __[On-Scroll animated header](http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/)__
+
+#### Timeline
+- __[Vertical Timeline](https://codyhouse.co/gem/vertical-timeline/)__
+- __[Timeline js](https://timeline.knightlab.com/)__
+    - __[Github - Timeline js](https://github.com/NUKnightLab/TimelineJS)__
+- __[Timeline examples](http://visjs.org/timeline_examples.html)__
+- __[Timeline documentation](http://almende.github.io/chap-links-library/js/timeline/doc/#Example)__
+
+#### Img editor no HTML5
+- __[CamanJS](http://camanjs.com/)__
+- __[lake.js](http://alligatr.co.uk/lake.js/)__
+
+#### Editar código no site
+- __[CodeMirror](https://codemirror.net/)__
+- __[tinymce](https://www.tinymce.com/)__
+- __[textAngular](https://github.com/fraywing/textAngular)__
+
+#### Criar árvore em JS
+- __[jsTree](https://www.jstree.com/)__
+- __[jQuery Bracket library](http://www.aropupu.fi/bracket/)__
+
+#### Background no HTML5
+- __[Backstretch](http://srobbin.com/jquery-plugins/backstretch/)__
+
+#### Clipboard JS
+- __[ClipboardJS](https://clipboardjs.com/)__
 
 ---
 
@@ -240,9 +299,6 @@ Componentes úteis para se utilizar em aplicações.
 - __[Markdown-it](https://markdown-it.github.io/)__
 - __[Markdown-guide](http://support.ghost.org/markdown-guide/)__
 
-#### Transformar texto em link
-- __[soapbox](http://soapbox.github.io/linkifyjs/)__
-
 #### Videos em formato profissional
 - __[Wideo](http://wideo.co/pt/)__
 - __[GoAnimate](https://goanimate.com/)__
@@ -250,6 +306,3 @@ Componentes úteis para se utilizar em aplicações.
 
 #### Acompanhamento processo de desenvolvimento
 - __[Dojo Toolkit](http://dojotoolkit.org/)__
-
-#### Desenvolvimento com realidade aumentada
-- __[awe.js](https://github.com/buildar/awe.js)__
