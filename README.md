@@ -15,6 +15,16 @@ Lista com links úteis para o desenvolvimento web com JavaScript.
 ### Componentes
 Componentes úteis para se utilizar em aplicações.
 
+#### Locais para buscar conteúdo
+- __[JavaScripting](https://www.javascripting.com/)__
+- __[Resource cards](https://resourcecards.com/)__
+
+#### Documentação de linguagens/frameworks/plugins
+- __[devdocs.io](http://devdocs.io/)__
+
+#### Checklist para developer
+- __[Web Developer Checklist](http://webdevchecklist.com/)__
+
 #### Calendário
 - __[UI Calendar](http://angular-ui.github.io/ui-calendar/)__
 - __[FullCalendar](http://fullcalendar.io/)__
@@ -84,6 +94,7 @@ Componentes úteis para se utilizar em aplicações.
 
 #### File upload para arquivos em HTML5
 - __[Pure HTML5 file upload](https://www.script-tutorials.com/pure-html5-file-upload/)__
+- __[TinyMCE](https://www.tinymce.com/docs/configure/file-image-upload/)__
 
 ### Drag'n'drop arquivos
 - __[dropzonejs](http://www.dropzonejs.com/)__
@@ -97,6 +108,8 @@ Componentes úteis para se utilizar em aplicações.
 
 #### Animação de componentes
 - __[Animate.css](https://daneden.github.io/animate.css/)__
+- __[WOW](https://github.com/matthieua/WOW)__
+- __[Bounce.js](http://bouncejs.com/)__
 
 #### Animação de Header 
 - __[On-Scroll animated header](http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/)__
@@ -127,6 +140,75 @@ Componentes úteis para se utilizar em aplicações.
 #### Clipboard JS
 - __[ClipboardJS](https://clipboardjs.com/)__
 
+#### Video no fundo do texto com CSS e SVG
+- __[ClipboardJS](https://www.youtube.com/watch?time_continue=2&v=wz42ZJykTXo)__
+
+#### Notificações push
+- __[Guia de notificações push para ecommerce](http://caiquedourado.com.br/guia-notificacoes-push-para-ecommerce/)__
+- __[Cross plataform push notification](https://onesignal.com/)__
+
+#### Gráficos
+- __[Chart.js](http://www.chartjs.org/)__
+- __[jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about)__
+- __[Rickshaw Graphs](http://code.shutterstock.com/rickshaw/)__
+- __[Google Graphs](https://developers.google.com/chart/)__
+- __[Chartist.js](http://gionkunz.github.io/chartist-js/)__
+    - __[Usando o melhor chart da web - Chartist.js](http://blog.pineb.com.br/chartist/)__
+
+#### Validação de campos de formulário
+- __[.validate](https://jqueryvalidation.org/)__
+- __[ng-mask](https://github.com/candreoliveira/ngMask)__
+
+#### Json Generator
+- __[json generator](http://www.json-generator.com/)__
+
+#### Templates de sites
+- __[admire the web](https://www.admiretheweb.com/templates/)__
+- __[w3layouts](https://w3layouts.com/)__
+
+#### Carrosel - Carousel
+- __[OWL Carousel](http://www.owlgraphic.com/owlcarousel/)__
+- __[jCarousel](http://sorgalla.com/jcarousel/)__
+- __[Jssor](https://www.jssor.com/demos/carousel-slider.slider)__
+- __[Carouse.js](https://www.npmjs.com/package/carousel-js)__
+
+#### Busca de cep
+- __[ViaCEP](http://viacep.com.br/)__
+- __[Retornando dados CEP em AngularJS](http://pt.stackoverflow.com/questions/25988/retornando-dados-do-cep-em-formul%C3%A1rio)__
+
+#### Select
+- __[bootstrap-select](https://silviomoreto.github.io/bootstrap-select/examples/)__
+- __[Select.js](http://github.hubspot.com/select/docs/welcome/)__
+
+#### Acompanhamento processo de desenvolvimento
+- __[Dojo Toolkit](http://dojotoolkit.org/)__
+
+#### Construtor de páginas
+- __[Boostrap Studio](https://bootstrapstudio.io/)__
+- __[Code canyon](http://codecanyon.net/item/html-builder-frontend-version/full_screen_preview/8432859)__
+- __[Nitrous](https://www.nitrous.io/)__
+- __[Pubstorm](https://www.pubstorm.com/#get-started)__
+
+#### Ligthbox responsivo
+- __[Lity](http://sorgalla.com/lity/)__
+- __[angular-bootstrap-lightbox](https://github.com/compact/angular-bootstrap-lightbox)__
+- __[lightbox2](https://github.com/lokesh/lightbox2)__
+
+#### Particulas/desenho/ondas
+- __[Particles.js](https://github.com/VincentGarreau/particles.js/)__
+- __[particleground](https://github.com/jnicol/particleground)__
+- __[sketch.js](http://soulwire.github.io/sketch.js/)__
+- __[sine-waves](https://github.com/isuttell/sine-waves)__
+
+#### Desenvolvimento para aplicações desktop
+- __[electron](http://electron.atom.io/)__
+
+#### Tour em páginas
+- __[Bootstrap tour](http://bootstraptour.com/)__
+
+#### Page Loader
+- __[pacejs](http://github.hubspot.com/pace/docs/welcome/)__
+
 ---
 
 ### Design
@@ -148,11 +230,11 @@ Componentes úteis para se utilizar em aplicações.
 
 #### Protótipo / Mockup
 
-##### Para download
+Para download
 - __[Adobe Experience Design CC](https://helpx.adobe.com/experience-design/how-to/xd-ui-ux-design.html)__
 - __[Balsamiq](https://balsamiq.com/)__
 
-##### Online
+Online
 - __[proto.io](https://proto.io/)__
 - __[marvel](https://marvelapp.com/)__
 - __[framerjs](http://framerjs.com/)__
@@ -275,6 +357,7 @@ Componentes úteis para se utilizar em aplicações.
 - __[JSBooks](http://jsbooks.revolunet.com/)__
 - __[Useful free books for web developers](https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.ep0ow07ak)__
 - __[Traduz-ai](https://github.com/ericdouglas/traduz-ai)__
+- __[Packtpub](https://www.packtpub.com/packt/offers/free-learning)__
 
 ---
 
@@ -304,5 +387,14 @@ Componentes úteis para se utilizar em aplicações.
 - __[GoAnimate](https://goanimate.com/)__
 - __[Powtoon](https://www.powtoon.com/)__
 
-#### Acompanhamento processo de desenvolvimento
-- __[Dojo Toolkit](http://dojotoolkit.org/)__
+#### Gerenciador Docker
+- __[Kitematic](https://kitematic.com/)__
+
+#### Torrent
+- __[WebTorrent Desktop](https://webtorrent.io/desktop)__
+
+#### Códigos solucionados
+- __[Rosetta Code](https://www.rosettacode.org/wiki/Rosetta_Code)__
+
+#### Gerenciador de equipes/trabalho
+- __[Flow](https://www.getflow.com/)__
