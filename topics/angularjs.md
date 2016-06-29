@@ -8,21 +8,27 @@
 
 #### Componentes
 
-Page Loader
+##### Page Loader
 - __[ocLazyLoad](https://oclazyload.readme.io/)__
 - __[RequireJS](http://requirejs.org/)__
 
-Validação de campos de formulário
+##### Validação de campos de formulário
 - __[ng-mask](https://github.com/candreoliveira/ngMask)__
 
-#### Tester
+##### Consumo de JSON
+- __[apiNG](https://aping.readme.io/)__
+
+##### Angular Material
+- __[Começando com o Angular Material](https://medium.com/@juliocarneiro/come%C3%A7ando-com-o-angular-material-parte-1-76b566959e60#.tzk2ml712)__
+
+##### Tester
 - __[Protractor](https://angular.github.io/protractor/#/)__
 - __[Karma-Jasmine](https://github.com/karma-runner/karma-jasmine)__
 - __[Unit testing](https://docs.angularjs.org/guide/unit-testing)__
 
-#### Demos
+##### Demos
 - __[Popular 50 demos 1/2](http://www.angularjs4u.com/demos/50-popular-angularjs-demos-examples-part-1-2/)__
 - __[Popular 50 demos 2/2](http://www.angularjs4u.com/demos/50-popular-angularjs-demos-examples-part-2-2/)__
 
-#### Templates
+##### Templates
 - __[colorlib](http://www.angularjs4u.com/demos/50-popular-angularjs-demos-examples-part-2-2/)__

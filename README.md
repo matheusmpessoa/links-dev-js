@@ -25,6 +25,9 @@ Componentes úteis para se utilizar em aplicações.
 #### Checklist para developer
 - __[Web Developer Checklist](http://webdevchecklist.com/)__
 
+#### Framework CSS Flebox
+- __[Bulma](http://bulma.io/)__
+
 #### Calendário
 - __[UI Calendar](http://angular-ui.github.io/ui-calendar/)__
 - __[FullCalendar](http://fullcalendar.io/)__
@@ -209,6 +212,15 @@ Componentes úteis para se utilizar em aplicações.
 #### Page Loader
 - __[pacejs](http://github.hubspot.com/pace/docs/welcome/)__
 
+#### Gerador de PDF
+- __[jsPDF](https://github.com/MrRio/jsPDF)__
+
+#### Popup em páginas
+- __[Exit intent popup](http://beeker.io/exit-intent-popup-script-tutorial)__
+
+#### Regex.js
+- __[regex.js](https://regex101.com/#javascript)__
+
 ---
 
 ### Design
@@ -221,12 +233,13 @@ Componentes úteis para se utilizar em aplicações.
 - __[Font Squirrel](http://www.fontsquirrel.com/)__
 - __[Search Free Fonts](https://www.searchfreefonts.com/)__
 
-#### Paleta de cores
+#### Escolha/Paleta de cores
 - __[Colorphile](http://colorphile.com/)__
 - __[Clrs](http://clrs.cc/)__
 - __[BrandColors](http://brandcolors.net/)__
 - __[Cymbolism](http://cymbolism.com/)__
 - __[material palette](https://www.materialpalette.com/)__
+- __[coolors](https://coolors.co/)__
 
 #### Protótipo / Mockup
 
@@ -241,8 +254,10 @@ Online
 - __[moqups](https://moqups.com/)__
 - __[iPlotz](https://iplotz.com/)__
 
-#### Icones
+#### Icones - Icons
 - __[Fontawesome](http://fontawesome.io/icons/)__
+- __[Devicon](http://devicon.fr/)__
+- __[Dev Icons](http://vorillaz.github.io/devicons/#/main)__
 - __[IcoMoon](https://icomoon.io/)__
 - __[Material Design Icons](https://materialdesignicons.com/)__
 - __[Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)__
