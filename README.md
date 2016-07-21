@@ -3,12 +3,40 @@ Lista com links úteis para o desenvolvimento web com JavaScript.
 
 ## Categorias
 
-- __[Componentes]()__
-- __[Design]()__
-- __[Links]()__
-- __[Livros]()__
-- __[Cursos]()__
-- __[Uteis]()__
+- __[Links](#links)__
+- __[Componentes](#componentes)__
+- __[Design](#design)__
+- __[Livros](#livros-js)__
+- __[Cursos Online](#cursos-online)__
+- __[Uteis](#Úteis)__
+
+---
+
+### Links
+
+#### JavaScript
+- __[Links JavaScript](topics/javascript.md)__
+
+#### Angularjs
+- __[Links AngularJS](topics/angularjs.md)__
+
+#### Node.js
+- __[Links Node.JS](topics/nodejs.md)__
+
+#### Ionic
+- __[Links Ionic](topics/ionic.md)__
+
+#### Bootstrap
+- __[Links Bootstrap](topics/bootstrap.md)__
+
+#### Games
+- __[Links Games](topics/games.md)__
+
+#### MEAN stack
+- __[Links MEAN stack](topics/mean.md)__
+
+#### Meteor
+- __[Links Meteor](topics/meteor.md)__
 
 ---
 
@@ -223,7 +251,7 @@ Componentes úteis para se utilizar em aplicações.
 
 ---
 
-### Design
+### Design  
 
 #### Fontes
 - __[Fonts Google](https://fonts.google.com/)__
@@ -260,6 +288,7 @@ Online
 - __[Dev Icons](http://vorillaz.github.io/devicons/#/main)__
 - __[IcoMoon](https://icomoon.io/)__
 - __[Material Design Icons](https://materialdesignicons.com/)__
+- __[Lingo - The noun project](https://thenounproject.com/)__
 - __[Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3)__
 - __[PaymentFont](http://paymentfont.io/)__
 - __[iOS Icon Gallery](http://iosicongallery.com/)__
@@ -307,14 +336,14 @@ Online
 - __[jeshoots](http://jeshoots.com/)__
 - __[HD Wallpapers](http://www.uhdwallpapers.org/p/creative-commons-images.html)__
 
-#### SVG
+#### Banco de SVG
 - __[Snap.svg](http://snapsvg.io/)__
 - __[svg.js](http://svgjs.com/)__
 - __[DWB](https://davidwalsh.name/svg-animation)__
 - __[24 Ways](https://24ways.org/2013/animating-vectors-with-svg/)__
 - __[Willian Justen - Awesome SVG](https://github.com/willianjusten/awesome-svg)__
 
-#### PSD
+#### Banco de PSD
 - __[365psd](http://pt.365psd.com/)__
 - __[Pixeden](http://www.pixeden.com/)__
 - __[Premium Pixels](http://www.premiumpixels.com/)__
@@ -329,7 +358,7 @@ Online
 - __[PSDblast](http://psdblast.com/)__
 - __[Linecons - PSD](http://designmodo.com/linecons-free/)__
 
-#### Vetor
+#### Banco de Vetor
 - __[Vecteezy](http://www.vecteezy.com/)__
 - __[Vector](http://vector.so/)__
 - __[FreeVectors](http://www.freevectors.net/)__
@@ -340,30 +369,14 @@ Online
 #### Imagens 3D
 - __[PixelSquid](https://www.pixelsquid.com/)__
 
----
+#### Gradiente
+- __[uigradients](http://uigradients.com/)__
 
-### Links
+#### Evitar uso de jQuery
+- __[youmightnotneedjquery](http://youmightnotneedjquery.com/)__
 
-#### JavaScript
-- __[Links MEAN](topics/javascript.md)__
-
-#### Angular.js
-- __[Links Node.JS](topics/angularjs.md)__
-
-#### Node.js
-- __[Links Node.JS](topics/nodejs.md)__
-
-#### Ionic
-- __[Links Ionic](topics/ionic.md)__
-
-#### Games
-- __[HTML5 Game](https://github.com/ummahusla/HTML5-Game-Development)__
-
-#### MEAN stack
-- __[be MEAN book](topics/mean.md)__
-
-#### Meteor
-- __[Meteor](topics/meteor.md)__
+#### Gerador de SSL
+- __[sslforfree](https://www.sslforfree.com/)__
 
 ---
 
@@ -383,7 +396,7 @@ Online
 - __[Khanacademy](https://pt.khanacademy.org/)__
 - __[iLoveCoding](https://ilovecoding.org/)__
 - __[Origamid](https://www.origamid.com/)__
-- __[Scotch](https://scotch.io/)__
+- __[Scotch.io](https://scotch.io/)__
 - __[TreinaWeb](https://www.treinaweb.com.br/)__
 - __[Webschool.io](http://webschool.io/)__
 
@@ -396,6 +409,7 @@ Online
 - __[getflow](https://www.getflow.com/)__
 - __[Markdown-it](https://markdown-it.github.io/)__
 - __[Markdown-guide](http://support.ghost.org/markdown-guide/)__
+- __[daringfireball - Syntax](https://daringfireball.net/projects/markdown/syntax)__
 
 #### Videos em formato profissional
 - __[Wideo](http://wideo.co/pt/)__

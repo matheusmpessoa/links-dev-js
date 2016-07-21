@@ -7,7 +7,6 @@
 ---
 
 #### Componentes
-- __[Meteor-learning](https://github.com/ericdouglas/Meteor-Learning)__
 
 ---
 
@@ -16,5 +15,7 @@
 ---
 
 #### Templates
+- __[startbootstrap](http://startbootstrap.com/template-categories/all/)__
 
 ---
+
