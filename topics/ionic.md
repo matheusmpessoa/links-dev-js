@@ -3,6 +3,7 @@
 ---
 
 #### Fóruns e artigos
+- __[Ionic Native: Native Powers for Your App](http://blog.ionic.io/ionic-native-native-powers-for-your-app/)__
 
 ---
 

@@ -3,10 +3,23 @@
 ---
 
 #### Fóruns e artigos
-- __[Organização de arquivos para projeto grande](http://pt.stackoverflow.com/questions/97519/angularjs-organiza%C3%A7%C3%A3o-de-arquivos-para-projeto-grande)__
 - __[AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)__
 - __[AngularLearning](https://github.com/dolymood/AngularLearning)__
 - __[Angular Styleguide](https://github.com/johnpapa/angular-styleguide)__
+- __[Anatomy of a large Angular application](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994#.f40mnorx1)__
+- __[Rightrelevance AngularJS](http://www.rightrelevance.com/search/articles?query=angularjs&taccount=angularrjs)__
+- __[The Ten (10) Best Angular.js Productivity Tools, Plugins and Libraries](http://blog.livecoding.tv/2016/03/23/thetenbestangular-jsproductivitytoolspluginsandlibraries/)__
+
+---
+
+#### Tutoriais
+- __[AngularJS's Controller As and the vm Variable](https://johnpapa.net/angularjss-controller-as-and-the-vm-variable/)__
+- __[AngularJS expressions](http://findnerd.com/list/view/AngularJS-expressions/15576/)__
+- __[Directives in AngularJs](https://medium.com/@avnesh.nitk/directives-in-angularjs-1e227070e46c#.n7gqgoc08)__
+- __[Organização de arquivos para projeto grande](http://pt.stackoverflow.com/questions/97519/angularjs-organiza%C3%A7%C3%A3o-de-arquivos-para-projeto-grande)__
+- __[Guia definitivo para aprender AngularJS](https://github.com/ericdouglas/traduz-ai/blob/master/angularjs/001-guia-definitivo-para-aprender-angularjs.md#guia-definitivo-para-aprender-angularjs-em-um-dia)__
+- __[AngularJs / TypeScript Sample Application](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/3292/A-OData-4-AngularJs-TypeScript-Sample-Application.aspx)__
+- __[Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)__
 
 ---
 
@@ -31,6 +44,14 @@
 ##### Angular Material
 - __[Começando com o Angular Material](https://medium.com/@juliocarneiro/come%C3%A7ando-com-o-angular-material-parte-1-76b566959e60#.tzk2ml712)__
 
+##### Tables
+- __[ng-table](http://ng-table.com/#/)__
+
+
+##### Videos
+- __[videogular](http://www.videogular.com/)__
+
+
 ##### Tester
 - __[Protractor](https://angular.github.io/protractor/#/)__
 - __[Karma-Jasmine](https://github.com/karma-runner/karma-jasmine)__
@@ -41,6 +62,8 @@
 #### Demos
 - __[Popular 50 demos 1/2](http://www.angularjs4u.com/demos/50-popular-angularjs-demos-examples-part-1-2/)__
 - __[Popular 50 demos 2/2](http://www.angularjs4u.com/demos/50-popular-angularjs-demos-examples-part-2-2/)__
+- __[Angular Script](http://angularscript.com/)__
+- __[Formulário de contato com Angular JS](http://guiferreiracode.com/2015/01/formulario-de-contato-com-angular-js.html)__
 
 ---
 
