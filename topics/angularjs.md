@@ -9,6 +9,9 @@
 - __[Anatomy of a large Angular application](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994#.f40mnorx1)__
 - __[Rightrelevance AngularJS](http://www.rightrelevance.com/search/articles?query=angularjs&taccount=angularrjs)__
 - __[The Ten (10) Best Angular.js Productivity Tools, Plugins and Libraries](http://blog.livecoding.tv/2016/03/23/thetenbestangular-jsproductivitytoolspluginsandlibraries/)__
+- __[Estrutura de diretórios em projetos AngularJS](http://www.matera.com/br/2015/08/26/estrutura-de-diretorios-em-projetos-angularjs/)__
+- __[Coisas sobre AngularJS que eu ficaria feliz em ter aprendido antes](https://medium.com/@marcosflorencio/coisas-sobre-angularjs-que-eu-ficaria-feliz-em-ter-aprendido-antes-6de1a3174246#.r6ptnb6ik)__
+- __[Angular e Google Analytcs](http://brjs.com.br/angulartics-angular-google-analytcs/)__
 
 ---
 
@@ -20,6 +23,9 @@
 - __[Guia definitivo para aprender AngularJS](https://github.com/ericdouglas/traduz-ai/blob/master/angularjs/001-guia-definitivo-para-aprender-angularjs.md#guia-definitivo-para-aprender-angularjs-em-um-dia)__
 - __[AngularJs / TypeScript Sample Application](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/3292/A-OData-4-AngularJs-TypeScript-Sample-Application.aspx)__
 - __[Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)__
+- __[Exemplos de aplicações e tutoriais](http://oymp3.xyz/mp3/exemplo-de-aplicacao-com-mean-stack.html)__
+- __[Começando com Angular Material](https://medium.com/@juliocarneiro/começando-com-o-angular-material-parte-1-76b566959e60#.7hk6z3xxw)__
+- __[Validação com ng-messages](http://findnerd.com/list/view/Form-Validation-in-AngularJS-with-ngMessages/20466/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_152)__
 
 ---
 
@@ -32,17 +38,14 @@
 ##### Validação de campos de formulário
 - __[ng-mask](https://github.com/candreoliveira/ngMask)__
 
-##### Estrutura de projetos Angularjs
-- __[apiNG](http://www.matera.com/br/2015/08/26/estrutura-de-diretorios-em-projetos-angularjs/)__
-
 ##### Loading Spinner
 - __[Como criar um loading spinner com AngularJS](https://www.diogomachado.com/blog/como-criar-um-loading-spinner-com-angularjs.html)__
 
 ##### Consumo de JSON
 - __[apiNG](https://aping.readme.io/)__
 
-##### Angular Material
-- __[Começando com o Angular Material](https://medium.com/@juliocarneiro/come%C3%A7ando-com-o-angular-material-parte-1-76b566959e60#.tzk2ml712)__
+##### Multiplos endereços
+- __[ng-address](https://github.com/diegomengarda/ng-address)__
 
 ##### Tables
 - __[ng-table](http://ng-table.com/#/)__

@@ -17,6 +17,12 @@ Lista com links úteis para o desenvolvimento web com JavaScript.
 #### JavaScript
 - __[Links JavaScript](topics/javascript.md)__
 
+#### HTML e CSS
+- __[Links HTML e CSS](topics/html-css.md)__
+
+#### jQuery
+- __[Links jQuery](topics/jquery.md)__
+
 #### Angularjs
 - __[Links AngularJS](topics/angularjs.md)__
 
@@ -133,6 +139,7 @@ Componentes úteis para se utilizar em aplicações.
 
 #### Mapas em JS
 - __[jVectorMap](http://jvectormap.com/)__
+- __[datamaps](https://datamaps.co/)__
 - __[amCharts](https://www.amcharts.com/javascript-maps/)__
 - __[Google Maps api V3](https://developers.google.com/maps/documentation/javascript/?hl=pt-br)__
     - __[Criando um mapa personalizado](http://www.princiweb.com.br/blog/programacao/google-apis/google-maps-api-v3-criando-um-mapa-personalizado.html)__
@@ -268,6 +275,7 @@ Componentes úteis para se utilizar em aplicações.
 - __[Cymbolism](http://cymbolism.com/)__
 - __[material palette](https://www.materialpalette.com/)__
 - __[coolors](https://coolors.co/)__
+- __[Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)__
 
 #### Protótipo / Mockup
 
@@ -386,6 +394,8 @@ Online
 - __[Useful free books for web developers](https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.ep0ow07ak)__
 - __[Traduz-ai](https://github.com/ericdouglas/traduz-ai)__
 - __[Packtpub](https://www.packtpub.com/packt/offers/free-learning)__
+- __[1000 livros sobre programacao](http://suporteninja.com/mais-de-1-000-livros-sobre-programacao-para-estudar-gratis-ingles-e-portugues/)__
+- __[Dev Free Books](https://devfreebooks.org/)__
 
 ---
 

@@ -7,6 +7,12 @@
 
 ---
 
+#### Tutoriais
+- __[Realtime Geolocation with Firebase](https://moquet.net/blog/realtime-geolocation-tracking-firebase/)__
+- __[Creating Location app with Firebase](https://www.sitepoint.com/creating-location-sharing-app-using-ionic-framework/)__
+
+---
+
 #### Componentes
 
 ##### Guia do DEV
@@ -18,10 +24,15 @@
 ##### QRCode Scanner
 - __[barcodeScanner](http://ngcordova.com/docs/plugins/barcodeScanner/)__
 
+##### Linha do tempo
+- __[ionic-timeline](https://github.com/kevincobain2000/ionic-timeline)__
+
 ---
 
 #### Demos
 - __[Temas Ionic](https://ionicthemes.com/)__
+- __[Ionic Market](https://market.ionic.io/)__
+- __[Ionic Base](https://github.com/jlaswell/ionic-base)__
 
 ---
 
