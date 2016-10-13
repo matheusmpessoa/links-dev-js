@@ -14,6 +14,7 @@
 - __[The MEAN Stack on OpenShift](https://developers.openshift.com/languages/nodejs/example-meanstack.html)__
 - __[Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial)__
 - __[Creating a CRUD App in Minutes with Angular’s $resource](https://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/)__
+- __[Conectando o MongoDB ao Robomongo](https://scotch.io/tutorials/connecting-to-mongodb-using-robomongo)__
 
 ---
 

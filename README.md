@@ -52,6 +52,7 @@ Componentes úteis para se utilizar em aplicações.
 #### Locais para buscar conteúdo
 - __[JavaScripting](https://www.javascripting.com/)__
 - __[Resource cards](https://resourcecards.com/)__
+- __[Awesome BR](http://awesome-br.com/#/)__
 
 #### Documentação de linguagens/frameworks/plugins
 - __[devdocs.io](http://devdocs.io/)__
@@ -428,6 +429,9 @@ Online
 
 #### Gerenciador Docker
 - __[Kitematic](https://kitematic.com/)__
+
+#### Tutorial Git
+- __[Git cheat](https://medium.com/@elaurent/git-cheat-sheet-c17ae9119cb1#.r82e65yht)__
 
 #### Torrent
 - __[WebTorrent Desktop](https://webtorrent.io/desktop)__

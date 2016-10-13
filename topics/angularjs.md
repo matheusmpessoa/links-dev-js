@@ -12,6 +12,7 @@
 - __[Estrutura de diretórios em projetos AngularJS](http://www.matera.com/br/2015/08/26/estrutura-de-diretorios-em-projetos-angularjs/)__
 - __[Coisas sobre AngularJS que eu ficaria feliz em ter aprendido antes](https://medium.com/@marcosflorencio/coisas-sobre-angularjs-que-eu-ficaria-feliz-em-ter-aprendido-antes-6de1a3174246#.r6ptnb6ik)__
 - __[Angular e Google Analytcs](http://brjs.com.br/angulartics-angular-google-analytcs/)__
+- __[Promises em Angularjs](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)__
 
 ---
 

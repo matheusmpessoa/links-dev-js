@@ -6,6 +6,7 @@
 - __[javascript-path](https://github.com/ericdouglas/javascript-path)__
 - __[Você realmente entende as Funções em JavaScript?](https://braziljs.org/blog/funcoes-em-javascript/)__
 - __[Como imprimir o conteúdo dentro de uma div HTML?](http://pt.stackoverflow.com/questions/782/como-imprimir-o-conte%C3%BAdo-dentro-de-uma-div-html)__
+- __[15 Interesting JavaScript and CSS Libraries](http://tutorialzine.com/2016/10/15-interesting-javascript-and-css-libraries-for-october-2016/)__
 
 ---
 
