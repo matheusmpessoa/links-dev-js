@@ -4,6 +4,7 @@
 
 #### Fóruns e artigos
 - __[Airbnb Styleguide](https://github.com/airbnb/css)__
+- __[APIs HTML5](http://danielgalvao.github.io/html5/tecnology/api/javascript/2016/11/06/html5-apis-que-voce-precisa-conhecer)__
 
 ---
 

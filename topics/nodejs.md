@@ -12,6 +12,7 @@
 
 #### Tutoriais
 - __[Authenticating Node.js Applications With Passport](http://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619)__
+- __[Authenticating Node.js com JWT](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)__
 
 ---
 
@@ -19,6 +20,9 @@
 
 ##### Framework web
 - __[totaljs](https://www.totaljs.com/)__
+
+##### Framework para blog
+- __[hexo](https://hexo.io/)__
 
 ##### E-mail com Node.js
 - __[Nodemailer](https://github.com/nodemailer/nodemailer)__

@@ -27,6 +27,7 @@
 - __[Exemplos de aplicações e tutoriais](http://oymp3.xyz/mp3/exemplo-de-aplicacao-com-mean-stack.html)__
 - __[Começando com Angular Material](https://medium.com/@juliocarneiro/começando-com-o-angular-material-parte-1-76b566959e60#.7hk6z3xxw)__
 - __[Validação com ng-messages](http://findnerd.com/list/view/Form-Validation-in-AngularJS-with-ngMessages/20466/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_152)__
+- __[AngularJS e Firebase](https://www.youtube.com/watch?v=LdDwbIEpT4s)__
 
 ---
 

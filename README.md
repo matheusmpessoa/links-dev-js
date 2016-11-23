@@ -57,6 +57,10 @@ Componentes úteis para se utilizar em aplicações.
 #### Documentação de linguagens/frameworks/plugins
 - __[devdocs.io](http://devdocs.io/)__
 
+#### Frameworks
+- __[designmodo](http://designmodo.github.io/Flat-UI/)__
+- __[purecss](http://purecss.io/)__
+
 #### Checklist para developer
 - __[Web Developer Checklist](http://webdevchecklist.com/)__
 
@@ -429,6 +433,10 @@ Online
 
 #### Gerenciador Docker
 - __[Kitematic](https://kitematic.com/)__
+
+#### Teste de site responsivo
+- __[responsivedesign](http://ami.responsivedesign.is/#)__
+- __[material.io](http://material.io/resizer/)__
 
 #### Tutorial Git
 - __[Git cheat](https://medium.com/@elaurent/git-cheat-sheet-c17ae9119cb1#.r82e65yht)__
