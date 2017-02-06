@@ -449,3 +449,6 @@ Online
 
 #### Gerenciador de equipes/trabalho
 - __[Flow](https://www.getflow.com/)__
+
+#### Desenvolvimento SVG
+- __[vivus](https://maxwellito.github.io/vivus/)__
